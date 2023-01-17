@@ -3,4 +3,3 @@
   tasks:
     - name: command execution
       shell: whoami
-
